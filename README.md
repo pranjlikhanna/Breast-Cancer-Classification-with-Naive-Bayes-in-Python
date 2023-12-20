@@ -4,13 +4,13 @@
 This project involves the creation of a machine learning model using Python and Scikit-learn to classify breast cancer tumors as either malignant or benign. Employing a Naive Bayes classifier, this model is trained on a comprehensive dataset to provide accurate predictions. The project emphasizes data preprocessing, model training, and result interpretation, demonstrating practical application in medical diagnostics.
 
 ## Features
-# Data Preprocessing: 
+### Data Preprocessing: 
 Methods to clean and prepare the dataset for the machine learning model.
-# Naive Bayes Implementation: 
+### Naive Bayes Implementation: 
 Utilization of the Naive Bayes algorithm from Scikit-learn for classification.
-# Model Evaluation: 
+### Model Evaluation: 
 Techniques to assess the accuracy and performance of the classifier.
-# Result Interpretation: 
+### Result Interpretation: 
 Analyzing and understanding the outcomes of the model predictions.
 
 ## Installation
